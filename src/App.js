@@ -1,7 +1,6 @@
 import React from 'react';
+import Home from './pages/Home';
 
-function App() {
-  return <h1>Awesome Dogs</h1>;
-}
+const App = () => <Home />;
 
 export default App;
